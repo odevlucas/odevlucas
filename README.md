@@ -2,11 +2,8 @@
 <h3 align="center">A passionate developer student from Brazil</h3>
 
 - 🌱 I’m currently learning **Python & Scrum**
-
 - 💬 Ask me about **Study Techniques**
-
 - 📫 How to reach me **odeveloperlucas@gmail.com**
-
 - 🎻 Fun fact **I listen to (and love) Baroque music**
 
 <h3 align="left">Connect with me:</h3>
